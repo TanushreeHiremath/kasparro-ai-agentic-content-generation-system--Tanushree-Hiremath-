@@ -1,0 +1,42 @@
+{
+    "product_A": {
+        "name": "GlowBoost Vitamin C Serum",
+        "concentration": "10% Vitamin C",
+        "skin_type": [
+            "Oily",
+            "Combination"
+        ],
+        "key_ingredients": [
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "benefits": [
+            "Brightening",
+            "Fades dark spots"
+        ],
+        "how_to_use": "Apply 2\u00e2\u20ac\u201c3 drops in the morning before sunscreen",
+        "side_effects": "Mild tingling for sensitive skin",
+        "price": "\u00e2\u201a\u00b9699"
+    },
+    "product_B": {
+        "name": "GlowBoost Lite Serum",
+        "concentration": "5% Vitamin C",
+        "skin_type": [
+            "All Skin Types"
+        ],
+        "key_ingredients": [
+            "Vitamin C"
+        ],
+        "benefits": [
+            "Mild brightening"
+        ],
+        "how_to_use": "Apply 1 drop in the morning",
+        "side_effects": "None",
+        "price": "\u20b9399"
+    },
+    "differences": {
+        "Vitamin C %": "10% Vitamin C vs 5% Vitamin C",
+        "Moisture Support": "Yes (Hyaluronic Acid) vs No",
+        "Price": "\u00e2\u201a\u00b9699 vs \u20b9399"
+    }
+}
